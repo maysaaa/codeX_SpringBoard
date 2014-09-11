@@ -8,8 +8,8 @@ As a coder as codeX the internet will be your home away from home, it’s where 
 
 If you don't know something, the internet is your friend and it's a great place to share with others what you know and learn. This journey of discovery and sharing will be an integral part of your codeX journey. 
 
-If anything of the things below make no sense:
- * Write it down on a post-it note - keep these close to you we will review these regularly.
+If anything of the things below make no sense - follow the codeX learning cycle:
+ * Write it down on a post-it note - keep these close to you and we will review them regularly.
  * Then google it 
  * If still in doubt wave a mentor closer to talk it through
  
