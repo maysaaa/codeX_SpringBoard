@@ -8,7 +8,7 @@ As a coder as codeX the internet will be your home away from home, it’s where 
 So let’s get going.
 
 
-
-  * [Create a static blog](./CreateStaticBlog.md)
-  * [A more dynamic Blog](./CreateDynamicBlog.md)
-  * [Going global](./GoingGlobal.md)
+  * [Create my codeX home](./create_my_codeX_home.md)
+  * [Create a static blog](./create_static_blog.md)
+  * [A more dynamic Blog](./create_dynamic_blog.md)
+  * [Going global](./going_global.md)
