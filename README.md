@@ -1,6 +1,6 @@
 #codeX SpringBoard
 
-Let's get going with Codex it will be an adventure, a challenge, but one boring.
+Let's get going with Codex it will be an adventure and a challenge, but never boring.
 
 ## Creating an online home
 
