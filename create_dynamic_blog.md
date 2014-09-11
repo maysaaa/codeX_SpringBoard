@@ -1,4 +1,4 @@
-A more dynamic Blog
+#A more dynamic blog
 
 What is all this all this static html files all about you ask? How on earth am I suppose to blog from your cellphone? Have you ever tried to create an html file from your phone? If so, good for you!
 
