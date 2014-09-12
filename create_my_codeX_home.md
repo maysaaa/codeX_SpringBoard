@@ -17,3 +17,4 @@ Acceptance Criteria
     * You have created an html page
     * The page has some information about yourself
     * Your page is published and visible on the internet
+    * Your github account contains a project called mycodeXhome which contains the index.html file and a basic README.md file 
