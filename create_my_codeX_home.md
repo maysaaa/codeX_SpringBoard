@@ -18,3 +18,8 @@ You will create your own one…
     * The page has some information about yourself
     * Your page is published and visible on the internet
     * Your github account contains a project called mycodeXhome which contains the index.html file and a basic README.md file 
+
+#### Complete the assessment
+When you've set up all the accounts, complete the self assessment form.
+
+   * [my codeX home - Self Assessment](https://docs.google.com/a/codex-academy.com/forms/d/1R31yIeLkLtm0_qapqlKxGk9fUIO9HZsKr6ufXjNqDIA/viewform)
