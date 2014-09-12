@@ -28,5 +28,5 @@ Before you do anything.
   * You have a blog online
   * You wrote at least 3 blog posts and all of them have some photos in them
   * Your blog's code is stored in Github
-  * You create a branch in github called first_blog
-  * You tweeted about your blog
+  * You created a branch in github called first_blog
+  * You tweeted about your blog using the #codeX hashtag
