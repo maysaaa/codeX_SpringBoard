@@ -4,7 +4,7 @@ What's this static html files all about, you ask? How on earth am I suppose to b
 
 Let’s change this… Now create a dynamic blog! Instead of blogging directly in HTML files, let's create blog entries using an HTML Form. 
 
-The form should allow me to add a heading for my blog post and a place to write my blog post. When you're done writing your post you should be able to press a button that stores your blog post, and it should take you to the home screen which lists all the posts.
+The form should allow you to add a heading for your blog post and a place to write your post. When you're done writing your post you should be able to press a button that stores your blog post, and it should take you to the home screen which lists all the posts.
 
 For starters, store your blog posts locally in the browser using Javascript & JQuery (using HTML5’s localStorage support). Figure out how to see the entries in the localStorage using Chrome & Firefox. You will need to figure out how to loop through entries stored in localStorage and store display them on screen. If you
 
