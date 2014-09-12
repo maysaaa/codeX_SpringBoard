@@ -16,17 +16,17 @@ If you really want to be smart add an rss.xml file, use this for an RSS feed for
 
 Commit all of things into github into a new project and deploy this online. 
 
-Your blog should be online at: http://coders/projectcodex.co/<your_name>/blog
+Your blog should be online at: **http://coders.projectcodex.co/<your_name>/blog**
 
 As always spread the word on Social media.
 
 Before you do anything. 
-Make 100% sure that all your code is committed in github - mark your code by creating a branch in GIT called 
-first_blog. Make sure this is commited and safely tucked away in github. 
+
+> Make 100% sure that all your code is committed in github - mark your code by creating a branch in GIT called first_blog. Make sure this is commited and safely tucked away in github. 
 
 ##Acceptance Criteria
-* You have a blog online
-* You wrote at least 3 blog posts and all of them have some photos in them
-* Your blog's code is stored in Github
-* You create a branch in github called first_blog
-* You tweeted about your blog
+  * You have a blog online
+  * You wrote at least 3 blog posts and all of them have some photos in them
+  * Your blog's code is stored in Github
+  * You create a branch in github called first_blog
+  * You tweeted about your blog
