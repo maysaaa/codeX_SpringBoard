@@ -23,8 +23,7 @@ Now start using your newly found Ajax knowledge.
 
 Change your blogs home page to display all the blog posts from this URL: http://api.projectcodex.co/blog/andre 
 
-Start creating blog posts under your own name using this url:
-```http://api.projectcodex.co/blog/<user_name>/post```
+Start creating blog posts under your own name using this url:```http://api.projectcodex.co/blog/<user_name>/post```
 
 >Remember to put your name in the place of <user_name>
 
