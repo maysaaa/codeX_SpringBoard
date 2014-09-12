@@ -39,6 +39,9 @@ Publish your blog online.
 
 Now to a triple back flip, be sure someones recording it and publish a blog entry on your new dynamic blog.
 
-##Acceptance Criteria
-
-
+##Acceptance Criteria:
+    * You can add entries to your blog using an HTML form and they are stored remotely
+    * The dynamically created blog entries are listed on your blogs home and visible to others on the internet
+    * Your blog entries are stored in the cloud somewhere
+    * You've written a blog entry about REST and HTTP verbs
+    * You tweeted your blog entry using the hashtag #builtbycodeX
