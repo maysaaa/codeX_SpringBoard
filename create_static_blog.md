@@ -3,8 +3,8 @@
 Create a folder called blog in your myCodexHome folder called index.html.
 
 Write at least 3 blog posts on your blog:
-* An entry on why you are at codeX. What are your expectations, what makes you excited about codeX.
-* An post with a photo of you at your codeX laptop - why not add a photo with your fellow codeXers.
+* An entry about why you are at codeX. What are your expectations, what makes you excited about codeX.
+* An post with a photo of you at your codeX laptop tell about the laptop you are and what OS you are using. Where is codeX being done. Any thoughts on the venue you might have (A photo of the view might get some mileage...)
 * Another entry in which you tell what you have learned so far at codeX.
 
  
