@@ -29,3 +29,7 @@ So let’s get going.
   * [Create a static blog](./create_static_blog.md)
   * [A more dynamic Blog](./create_dynamic_blog.md)
   * [Going global](./going_global.md)
+  * [Getting feedback](./getting_feedback.md)
+  
+Ok you must admit this was epic. You potentially got freaked out along the way a few times, but you now know more about HTML, CSS, Javascript, HTTP & GIT. Not bad going, keep it up this is just the start. Remember to keep on reading about the skills you learned so far. Maybe make a list of things that doesn't make sense and be sure to talk these through with your fellow codeXers and mentors. 
+  
