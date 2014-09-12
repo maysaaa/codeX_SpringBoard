@@ -12,7 +12,7 @@ Ok let’s stand back and take a look at what you should have by now. Your new d
 
 After doing a bit of a victory dance let the world know what you are up to, I am afraid you will have to use your old static blog for this still as your new dynamic blog got no global conscience yet. Tell your audience to be patient and to stay tuned.
 
-##Acceptance Criteria
+##Acceptance Criteria:
    * You can add entries to your blog using an HTML form
    * The dynamically created blog entries are listed on your blogs home page
    * Your blog entries are stored locally in your browser
