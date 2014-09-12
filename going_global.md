@@ -29,10 +29,10 @@ http://api.projectcodex.co/blog/<user_name>/post
 
 >Remember to put your name in the place of <user_name>
 
-Once you created a few test blog posts look at them using this URL: http://api.projectcodex.co/blog/<user_name>
+Once you created a few test blog posts look at them using this URL: ```http://api.projectcodex.co/blog/<user_name>```
 
 Change your blog home page now to display your own blog posts.
 
 Use the this url to look at a specific blog post:
 
-http://api.projectcodex.co/blog/<user_name>/post/<post_id>
+```http://api.projectcodex.co/blog/<user_name>/post/<post_id>```
