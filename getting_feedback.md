@@ -7,8 +7,21 @@ We are taking the side wheels here for a bit, if you tip over its no shame.
 
 ## Thinking it through
 
-You will need to extend the back end - you will need to add some RESTfull HTTP Services
+You will need to extend the back end and add some RESTfull HTTP Services
+
+Desciption    | URL         | Http Verb
+--------------|-------------|----------
+Get all comments for a post | api.projectcodex.co/blog/<user_name>/post/<post_id>/comments | GET
+Create a new comment for a post | api.projectcodex.co/blog/<user_name>/post/<post_id>/comments | POST
+
+Ok so go and get the back end code from github at: ```http://www.github.com/...```
+
+We will need to find a place to store comments and we will need to link this to the appropriate blog post.
+
+You will need to change 
 
 
 ## Acceptance Criteria:
-
+* Users can add comments to your blog
+* At least one user have commented on a post of yours
+* You have blogged about this using #builtbycodex
