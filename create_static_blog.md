@@ -16,7 +16,7 @@ If you really want to be smart add an rss.xml file, use this for an RSS feed for
 
 Commit all of things into github into a new project and deploy this online. 
 
-Your blog should be online at: **http://coders.projectcodex.co/<your_name>/blog**
+Your blog should be online at: ```http://coders.projectcodex.co/<your_name>/blog```
 
 As always spread the word on Social media.
 
