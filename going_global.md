@@ -15,25 +15,24 @@ Get a specific blog post | api.projectcodex.co/blog/<user_name> | GET
 
 This will help you to store your posts online - go and try it out by opening this URL in a browser: 
 
-```http://api.projectcodex.co/blog/andre```
+http://api.projectcodex.co/blog/andre
 
-> Tip: at this stage understanding more about JQuery Ajax support will serve you well. Go and speak to google and your fellow codeXers about his. Ajax is not a wash powder brand or a football club by the way.
+> Tip: at this stage understanding more about JQuery Ajax support will serve you well. Go and speak to google and your fellow codeXers about his. Ajax is not a washing powder brand or a football club by the way. We are interested in GET and POST http verbs
 
+Now start using your newly found Ajax knowledge.
 
-Change your blog to display all the blog posts from this URL: on its home page. api.projectcodex.co/blog/andre
+Change your blogs home page to display all the blog posts from this URL: http://api.projectcodex.co/blog/andre 
 
-Now using your newly found Ajax knowledge start creating blog posts under your own name using this url:
+Start creating blog posts under your own name using this url:
 
-```api.projectcodex.co/blog/<user_name>/post```
+http://api.projectcodex.co/blog/<user_name>/post
 
-Remember to put your name in the place of <user_name>
+>Remember to put your name in the place of <user_name>
 
-Once you created a few test blog posts look at them using this URL:
+Once you created a few test blog posts look at them using this URL: http://api.projectcodex.co/blog/<user_name>
 
-```api.projectcodex.co/blog/<user_name>```
-
-Change your blog now to display your own blog posts.
+Change your blog home page now to display your own blog posts.
 
 Use the this url to look at a specific blog post:
 
-```api.projectcodex.co/blog/<user_name>/post/<post_id>```
+http://api.projectcodex.co/blog/<user_name>/post/<post_id>
