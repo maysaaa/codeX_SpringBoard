@@ -14,8 +14,8 @@ After doing a bit of a victory dance let the world know what you are up to, I am
 
 ##Acceptance Criteria
 
-* You can add entries to your blog using an HTML form
-* The dynamically created blog entries are listed on your blogs home page
-* Your blog entries are stored locally in your browser
-* You've written a blog entry about localStorage, Javascript & JQuery
-* You tweeted your blog entry using the hashtag #builtbycodex and #codetowork
+  * You can add entries to your blog using an HTML form
+  * The dynamically created blog entries are listed on your blogs home page
+  * Your blog entries are stored locally in your browser
+  * You've written a blog entry about localStorage, Javascript & JQuery
+  * You tweeted your blog entry using the hashtag #builtbycodex and #codetowork
