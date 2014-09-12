@@ -29,9 +29,16 @@ Start creating blog posts under your own name using this url:```http://api.proje
 
 Once you created a few test blog posts look at them using this URL: ```http://api.projectcodex.co/blog/<user_name>```
 
-> You might want to delete some of your test blog posts using 
+> You might want to delete some of your test blog posts. Try to use the ```http://api.projectcodex.co/blog/<user_name>/post/<post_id>``` url with a DELETE http verb to delete entries. This part is totally optional at this stage. Talk to your mentor to help you to clean out your test blog posts alternatively.
 
 Change your blog home page now to display your own blog posts.
 
 Use the this url to look at a specific blog post: ```http://api.projectcodex.co/blog/<user_name>/post/<post_id>```
+
+Publish your blog online.
+
+Now to a triple back flip, be sure someones recording it and publish a blog entry on your new dynamic blog.
+
+##Acceptance Criteria
+
 
