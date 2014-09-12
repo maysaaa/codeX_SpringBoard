@@ -12,7 +12,7 @@ Let’s face it you will learn new things at codeX on a daily if not hourly basi
 
 You will create your own one…
 
-Acceptance Criteria
+##Acceptance Criteria
 
     * You have created an html page
     * The page has some information about yourself
