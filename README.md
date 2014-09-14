@@ -17,11 +17,10 @@ If anything of the things below make no sense - follow the codeX learning cycle:
 
 Here are a list of free online resources that you wil find helpfull in your codeX journey. Hold them dear, study them, discuss them and use them to your advantage.
 
-http://www.girldevelopit.com/
-http://www.codecademy.com/
-http://code.org/
-http://content.codersdojo.org/code-kata-catalogue/
-
+  * http://www.girldevelopit.com/
+  * http://www.codecademy.com/
+  * http://code.org/
+  * http://content.codersdojo.org/code-kata-catalogue/
 
 So let’s get going.
 
