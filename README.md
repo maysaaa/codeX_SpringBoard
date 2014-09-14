@@ -22,7 +22,9 @@ Here are a list of free online resources that you wil find helpfull in your code
   * http://code.org/
   * http://content.codersdojo.org/code-kata-catalogue/
 
-So let’s get going.
+> Here is a very usefull online utility that is really helpfull to write html, css and javascript specifically oofor web applications: ```http://jsbin.com/``` Give it a go - you can login into it using your github credentials. It will them store all the 'bins' you created.
+
+##So let’s get going.
 
   * [Create my codeX home](./create_my_codeX_home.md)
   * [Create a static blog](./create_static_blog.md)
