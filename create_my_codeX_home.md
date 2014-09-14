@@ -32,7 +32,7 @@ You will create your own one…
     * You have created an html page
     * The page has some information about yourself
     * Your page is published and visible on the internet
-    * Your github account contains a project called mycodeXhome which contains the index.html file and a basic README.md file 
+    * Your github account contains a project called codeX_coders which contains an index.html in a directory with your name and a basic README.md file 
 
 #### Complete the assessment
 When you've set up all the accounts, complete the self assessment form.
